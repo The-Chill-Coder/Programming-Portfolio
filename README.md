@@ -7,12 +7,13 @@ A list of my programming projects from multiple different programming languages.
 
 ## Python Projects 
 
-Pygames 
+Python Games 
 
 
+Python Security and Cryptography Projects 
 
-Python ciphers 
 
+Python Utility Projects
 
 
 ## Javascript Projects 
@@ -20,7 +21,19 @@ Python ciphers
 Vanilla Javascript games
 
 
-Javascript Utilities
+Javascript Utility Projects
+
+
+Javascript Language Projects 
+
+
+Javascript Science Projects 
+
+
+Javascript Music Projects
+
+
+Javascript Art Projects
 
 
 
@@ -36,6 +49,6 @@ Java Games
 
 4. Sudoku: https://github.com/The-Chill-Coder/Sudoku-Java-.git
 
-Java Utilities 
+Java Utility Projects
 
 1. Calculator: https://github.com/The-Chill-Coder/Calculator-Java-.git 
