@@ -53,6 +53,9 @@ Javascript Science Projects
 
 Javascript Music Projects
 
+1. Virtual Piano: https://github.com/The-Chill-Coder/Virtual-Piano-JS.git
+
+
 
 Javascript Art Projects
 
