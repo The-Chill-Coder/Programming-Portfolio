@@ -35,6 +35,8 @@ Turtle Python Projects
 
 1. Armenian Hearts: https://github.com/The-Chill-Coder/Armenian-Hearts.py.git
 
+2. Armenia Strong: https://github.com/The-Chill-Coder/Armenia-Strong.py.git
+
 ## Javascript Projects 
 
 Vanilla Javascript games
