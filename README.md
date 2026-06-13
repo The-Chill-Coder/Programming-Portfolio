@@ -18,6 +18,8 @@ Python Security and Cryptography Projects
 
 3. ROT13 Cipher: https://github.com/The-Chill-Coder/ROT13-Cipher.py.git
 
+4. Password Strength Checker: https://github.com/The-Chill-Coder/Password-Strength-Checker.py.git
+
 Python Utility Projects
 
 1. Text to Speech: https://github.com/The-Chill-Coder/Text-to-Speech.py.git
