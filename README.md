@@ -16,6 +16,8 @@ Python Security and Cryptography Projects
 
 2. Atbash Cipher: https://github.com/The-Chill-Coder/Atbash-Cipher.py.git
 
+3. ROT13 Cipher: https://github.com/The-Chill-Coder/ROT13-Cipher.py.git
+
 Python Utility Projects
 
 1. Text to Speech: https://github.com/The-Chill-Coder/Text-to-Speech.py.git
