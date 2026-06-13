@@ -33,6 +33,8 @@ Python Utility Projects
 
 Turtle Python Projects
 
+1. Armenian Hearts: https://github.com/The-Chill-Coder/Armenian-Hearts.py.git
+
 ## Javascript Projects 
 
 Vanilla Javascript games
