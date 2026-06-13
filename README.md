@@ -1,12 +1,16 @@
 # Programming-Portfolio
+
 A list of my programming projects from multiple different programming languages. 
 
+HTML & CSS Projects
+
+
 Python Projects 
-Pygames 
+1.Pygames 
 
 
 
-python ciphers 
+2.python ciphers 
 
 
 
