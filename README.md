@@ -2,29 +2,31 @@
 
 A list of my programming projects from multiple different programming languages. 
 
-HTML & CSS Projects
+## HTML & CSS Projects
 
 
-Python Projects 
-1.Pygames 
+## Python Projects 
 
-
-
-2.python ciphers 
+Pygames 
 
 
 
-Javascript Projects 
+Python ciphers 
+
+
+
+## Javascript Projects 
 Vanilla Javascript games
 
 
-Javascript Ultility Apps
+Javascript Utility Apps
 
 
 
-Java Projects 
+## Java Projects 
 
-
+Java Games
+1.Snake Game: https://github.com/The-Chill-Coder/Snake-Game-Java-.git
 
 
 
