@@ -15,6 +15,7 @@ Python Security and Cryptography Projects
 
 Python Utility Projects
 
+1. Text to Speech: https://github.com/The-Chill-Coder/Text-to-Speech.py.git
 
 ## Javascript Projects 
 
