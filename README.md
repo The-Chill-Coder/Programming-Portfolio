@@ -11,6 +11,8 @@ Python Games
 
 1. Space Invader: https://github.com/The-Chill-Coder/Space-Invader.py.git
 
+2. Snake Game: https://github.com/The-Chill-Coder/Snake-Game.py.git
+
 
 Python Security and Cryptography Projects 
 
