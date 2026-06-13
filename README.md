@@ -57,7 +57,9 @@ Javascript Music Projects
 
  Live Demo: https://the-chill-coder.github.io/Virtual-Piano-JS/pn.html
 
+2. Virtual Drum Set: https://github.com/The-Chill-Coder/Virtual-Drum-Set-JS.git
 
+Live Demo:https://the-chill-coder.github.io/Virtual-Drum-Set-JS/drm.html
 
 Javascript Art Projects
 
