@@ -20,7 +20,7 @@ Python ciphers
 Vanilla Javascript games
 
 
-Javascript Utility Apps
+Javascript Utilities
 
 
 
@@ -34,4 +34,8 @@ Java Games
 
 3. Whack a Mole: https://github.com/The-Chill-Coder/Whack-A-Mole-Java-.git
 
+4. Sudoku: https://github.com/The-Chill-Coder/Sudoku-Java-.git
 
+Java Utilities 
+
+1. Calculator: 
