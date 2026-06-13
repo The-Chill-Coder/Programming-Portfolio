@@ -24,6 +24,8 @@ Python Security and Cryptography Projects
 
 4. Password Strength Checker: https://github.com/The-Chill-Coder/Password-Strength-Checker.py.git
 
+5. Morse Code Translator: https://github.com/The-Chill-Coder/Morse-Code-Translator.py.git
+
 Python Utility Projects
 
 1. Text to Speech: https://github.com/The-Chill-Coder/Text-to-Speech.py.git
