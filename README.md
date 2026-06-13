@@ -14,6 +14,8 @@ Python Security and Cryptography Projects
 
 1. Caesar Cipher: https://github.com/The-Chill-Coder/Caesar-Cipher.py.git
 
+2. Atbash Cipher: https://github.com/The-Chill-Coder/Atbash-Cipher.py.git
+
 Python Utility Projects
 
 1. Text to Speech: https://github.com/The-Chill-Coder/Text-to-Speech.py.git
