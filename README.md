@@ -41,6 +41,9 @@ A list of my programming projects from multiple different programming languages.
 
 #### Vanilla Javascript games
 
+1. Space Invader: https://github.com/The-Chill-Coder/Space-Invader-JS-.git
+
+Live Demo: https://the-chill-coder.github.io/Space-Invader-JS-/VG.html
 
  #### Javascript Utility Projects
 
