@@ -45,6 +45,10 @@ A list of my programming projects from multiple different programming languages.
 
 Live Demo: https://the-chill-coder.github.io/Space-Invader-JS-/VG.html
 
+2. Snake Game: https://github.com/The-Chill-Coder/Snake-Game-JS.git
+
+Live Demo: https://the-chill-coder.github.io/Snake-Game-JS/sn.html
+
  #### Javascript Utility Projects
 
 
