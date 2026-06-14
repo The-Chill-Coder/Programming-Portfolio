@@ -42,7 +42,7 @@ Turtle Python Projects
 Vanilla Javascript games
 
 
-Javascript Utility Projects
+ # Javascript Utility Projects
 
 
 Javascript Language Projects 
@@ -64,6 +64,10 @@ Live Demo:https://the-chill-coder.github.io/Virtual-Drum-Set-JS/drm.html
 Javascript Art Projects
 
 
+REACT Projects 
+
+
+Angular Projects
 
 ## Java Projects 
 
