@@ -59,7 +59,11 @@ A list of my programming projects from multiple different programming languages.
 
 2. Virtual Drum Set: https://github.com/The-Chill-Coder/Virtual-Drum-Set-JS.git
 
-Live Demo:https://the-chill-coder.github.io/Virtual-Drum-Set-JS/drm.html
+Live Demo: https://the-chill-coder.github.io/Virtual-Drum-Set-JS/drm.html
+
+3. Microphone Recorder: https://github.com/The-Chill-Coder/Microphone-Recorder-JS.git
+
+Live Demo: https://the-chill-coder.github.io/Microphone-Recorder-JS/mc.html
 
 #### Javascript Art Projects
 
