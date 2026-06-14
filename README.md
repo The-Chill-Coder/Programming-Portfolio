@@ -2,10 +2,10 @@
 
 A list of my programming projects from multiple different programming languages. 
 
-## HTML & CSS Projects
+# HTML & CSS Projects
 
 
-## Python Projects 
+# Python Projects 
 
 #### Python Games 
 
@@ -14,7 +14,7 @@ A list of my programming projects from multiple different programming languages.
 2. Snake Game: https://github.com/The-Chill-Coder/Snake-Game.py.git
 
 
-Python Security and Cryptography Projects 
+####  Python Security and Cryptography Projects 
 
 1. Caesar Cipher: https://github.com/The-Chill-Coder/Caesar-Cipher.py.git
 
@@ -26,32 +26,32 @@ Python Security and Cryptography Projects
 
 5. Morse Code Translator: https://github.com/The-Chill-Coder/Morse-Code-Translator.py.git
 
-Python Utility Projects
+#### Python Utility Projects
 
 1. Text to Speech: https://github.com/The-Chill-Coder/Text-to-Speech.py.git
 
 
-Turtle Python Projects
+#### Turtle Python Projects
 
 1. Armenian Hearts: https://github.com/The-Chill-Coder/Armenian-Hearts.py.git
 
 2. Armenia Strong: https://github.com/The-Chill-Coder/Armenia-Strong.py.git
 
-## Javascript Projects 
+# Javascript Projects 
 
-Vanilla Javascript games
-
-
- ### Javascript Utility Projects
+#### Vanilla Javascript games
 
 
-Javascript Language Projects 
+ #### Javascript Utility Projects
 
 
-Javascript Science Projects 
+#### Javascript Language Projects 
 
 
-Javascript Music Projects
+#### Javascript Science Projects 
+
+
+#### Javascript Music Projects
 
 1. Virtual Piano: https://github.com/The-Chill-Coder/Virtual-Piano-JS.git
 
@@ -61,17 +61,17 @@ Javascript Music Projects
 
 Live Demo:https://the-chill-coder.github.io/Virtual-Drum-Set-JS/drm.html
 
-Javascript Art Projects
+#### Javascript Art Projects
 
 
-REACT Projects 
+#### REACT Projects 
 
 
-Angular Projects
+#### Angular Projects
 
-## Java Projects 
+# Java Projects 
 
-Java Games
+#### Java Games
 
 1. Snake Game: https://github.com/The-Chill-Coder/Snake-Game-Java-.git
 
@@ -81,6 +81,6 @@ Java Games
 
 4. Sudoku: https://github.com/The-Chill-Coder/Sudoku-Java-.git
 
-Java Utility Projects
+#### Java Utility Projects
 
 1. Calculator: https://github.com/The-Chill-Coder/Calculator-Java-.git 
