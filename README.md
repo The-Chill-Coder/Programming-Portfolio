@@ -49,6 +49,10 @@ Live Demo: https://the-chill-coder.github.io/Space-Invader-JS-/VG.html
 
 Live Demo: https://the-chill-coder.github.io/Snake-Game-JS/sn.html
 
+3.Dino Game: 
+
+Live Demo: https://the-chill-coder.github.io/Dino-Run-JS/dino.html
+
  #### Javascript Utility Projects
 
 
