@@ -53,9 +53,9 @@ Live Demo: https://the-chill-coder.github.io/Snake-Game-JS/sn.html
 
 Live Demo: https://the-chill-coder.github.io/Dino-Run-JS/dino.html
 
-4.Pong Game:
+4. Pong Game: https://github.com/The-Chill-Coder/Pong-JS.git
 
-Live Demo: 
+Live Demo: https://the-chill-coder.github.io/Pong-JS/pong.html
 
 5. Minesweeper Game:
 
