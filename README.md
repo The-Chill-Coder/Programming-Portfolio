@@ -49,7 +49,7 @@ Live Demo: https://the-chill-coder.github.io/Space-Invader-JS-/VG.html
 
 Live Demo: https://the-chill-coder.github.io/Snake-Game-JS/sn.html
 
-3.Dino Game: 
+3. Dino Game: https://github.com/The-Chill-Coder/Dino-Run-JS.git
 
 Live Demo: https://the-chill-coder.github.io/Dino-Run-JS/dino.html
 
