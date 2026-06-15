@@ -57,7 +57,7 @@ Live Demo: https://the-chill-coder.github.io/Dino-Run-JS/dino.html
 
 Live Demo: https://the-chill-coder.github.io/Pong-JS/pong.html
 
-5. Minesweeper Game:
+5. Minesweeper Game: https://github.com/The-Chill-Coder/Minesweeper-JS.git
 
 Live Demo: https://the-chill-coder.github.io/Minesweeper-JS/mns.html
 
