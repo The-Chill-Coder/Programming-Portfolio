@@ -61,6 +61,10 @@ Live Demo: https://the-chill-coder.github.io/Pong-JS/pong.html
 
 Live Demo: https://the-chill-coder.github.io/Minesweeper-JS/mns.html
 
+6. Checkers Game: https://github.com/The-Chill-Coder/Checkers-JS.git
+
+Live Demo: https://the-chill-coder.github.io/Checkers-JS/chkrs.html
+
  #### Javascript Utility Projects
 
 
