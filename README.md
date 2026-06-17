@@ -65,6 +65,11 @@ Live Demo: https://the-chill-coder.github.io/Minesweeper-JS/mns.html
 
 Live Demo: https://the-chill-coder.github.io/Checkers-JS/chkrs.html
 
+7. Tetris Game: https://github.com/The-Chill-Coder/Tetris-JS-.git
+
+Live Demo: https://the-chill-coder.github.io/Tetris-JS-/trs.html
+
+
  #### Javascript Utility Projects
 
 
