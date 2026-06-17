@@ -26,6 +26,8 @@ A list of my programming projects from multiple different programming languages.
 
 5. Morse Code Translator: https://github.com/The-Chill-Coder/Morse-Code-Translator.py.git
 
+6. Affline Cipher: https://github.com/The-Chill-Coder/Affline-Cipher.py.git
+
 #### Python Utility Projects
 
 1. Text to Speech: https://github.com/The-Chill-Coder/Text-to-Speech.py.git
