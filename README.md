@@ -69,6 +69,9 @@ Live Demo: https://the-chill-coder.github.io/Checkers-JS/chkrs.html
 
 Live Demo: https://the-chill-coder.github.io/Tetris-JS-/trs.html
 
+8. Tic Tac Toe Game: https://github.com/The-Chill-Coder/Tic-Tac-Toe-JS.git
+
+Live Demo: https://the-chill-coder.github.io/Tic-Tac-Toe-JS/ttt.html
 
  #### Javascript Utility Projects
 
