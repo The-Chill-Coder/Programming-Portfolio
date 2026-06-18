@@ -85,7 +85,9 @@ Live Demo: https://the-chill-coder.github.io/Analog-Clock-JS/ancl.html
 
 Live Demo: https://the-chill-coder.github.io/Dynamic-Digital-Clock-JS/ddgc.html
 
+3. Alarm Clock: https://github.com/The-Chill-Coder/Alarm-Clock-JS.git
 
+Live Demo: https://the-chill-coder.github.io/Alarm-Clock-JS/alc.html
 
 #### Javascript Language Projects 
 
