@@ -89,6 +89,10 @@ Live Demo: https://the-chill-coder.github.io/Dynamic-Digital-Clock-JS/ddgc.html
 
 Live Demo: https://the-chill-coder.github.io/Alarm-Clock-JS/alc.html
 
+4.QR code Generator: https://github.com/The-Chill-Coder/QR-code-generator-JS.git
+
+Live Demo: https://the-chill-coder.github.io/QR-code-generator-JS/qr.html
+
 #### Javascript Language Projects 
 
 
