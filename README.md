@@ -77,6 +77,9 @@ Live Demo: https://the-chill-coder.github.io/Tic-Tac-Toe-JS/ttt.html
 
  #### Javascript Utility Projects
 
+1. Analog Clock: https://github.com/The-Chill-Coder/Analog-Clock-JS.git
+
+Live Demo: https://the-chill-coder.github.io/Analog-Clock-JS/ancl.html
 
 #### Javascript Language Projects 
 
