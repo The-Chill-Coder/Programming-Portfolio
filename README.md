@@ -81,6 +81,12 @@ Live Demo: https://the-chill-coder.github.io/Tic-Tac-Toe-JS/ttt.html
 
 Live Demo: https://the-chill-coder.github.io/Analog-Clock-JS/ancl.html
 
+2. Dynamic Digital Clock: https://github.com/The-Chill-Coder/Dynamic-Digital-Clock-JS.git
+
+Live Demo: https://the-chill-coder.github.io/Dynamic-Digital-Clock-JS/ddgc.html
+
+
+
 #### Javascript Language Projects 
 
 
