@@ -93,6 +93,11 @@ Live Demo: https://the-chill-coder.github.io/Alarm-Clock-JS/alc.html
 
 Live Demo: https://the-chill-coder.github.io/QR-code-generator-JS/qr.html
 
+5. Currency Converter: https://github.com/The-Chill-Coder/Currency-Converter-JS.git
+
+Live Demo: https://the-chill-coder.github.io/Currency-Converter-JS/cc.html
+
+
 #### Javascript Language Projects 
 
 
