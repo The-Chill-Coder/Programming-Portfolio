@@ -4,7 +4,7 @@ A list of my programming projects from multiple different programming languages.
 
 # HTML & CSS Projects
 
-1.Interactive Periodic Table of Elements: https://github.com/The-Chill-Coder/Interactive-Periodic-Table-of-Elements.git
+1. Interactive Periodic Table of Elements: https://github.com/The-Chill-Coder/Interactive-Periodic-Table-of-Elements.git
 
 Live Demo: https://the-chill-coder.github.io/Interactive-Periodic-Table-of-Elements/pt.html
 
