@@ -108,6 +108,10 @@ Live Demo: https://the-chill-coder.github.io/Simple-Calculator-JS/cal.html
 
 Live Demo: https://the-chill-coder.github.io/To-do-list-JS-/td.html
 
+8. Flash Card Creator: https://github.com/The-Chill-Coder/Flash-Card-Creator-JS-.git
+
+Live Demo: https://the-chill-coder.github.io/Flash-Card-Creator-JS-/flc.html
+
 #### Javascript Language Projects 
 
 
