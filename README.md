@@ -104,6 +104,10 @@ Live Demo: https://the-chill-coder.github.io/Currency-Converter-JS/cc.html
 
 Live Demo: https://the-chill-coder.github.io/Simple-Calculator-JS/cal.html
 
+7. To Do List: https://the-chill-coder.github.io/Simple-Calculator-JS/cal.html
+
+Live Demo: https://the-chill-coder.github.io/To-do-list-JS-/td.html
+
 #### Javascript Language Projects 
 
 
