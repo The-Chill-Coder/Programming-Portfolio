@@ -100,6 +100,9 @@ Live Demo: https://the-chill-coder.github.io/QR-code-generator-JS/qr.html
 
 Live Demo: https://the-chill-coder.github.io/Currency-Converter-JS/cc.html
 
+6. Simple Calculator: https://github.com/The-Chill-Coder/Simple-Calculator-JS.git
+
+Live Demo: https://the-chill-coder.github.io/Simple-Calculator-JS/cal.html
 
 #### Javascript Language Projects 
 
